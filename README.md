@@ -29,3 +29,4 @@ Este é um jogo interativo desenvolvido durante o curso Lógica de Programação
 
 ## 📷 Imagens do Sistema
 
+![Tela do Jogo](caminho_para_a_imagem)
